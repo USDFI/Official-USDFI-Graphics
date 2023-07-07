@@ -1,3 +1,3 @@
 # Official-USDFI-Graphics
 
-TOKENS
+For integration, please use the assets in the TOKENS folder.
